@@ -1,6 +1,1 @@
-7.0 UFImod
-GDKD
-HEKE
-JDKD
-6328
-OELDB
+UFImod 7.1
