@@ -1,3 +1,1 @@
- MOON MODS 6.0
-:";$
-bdnx
+7.0.0 MOON MODS
